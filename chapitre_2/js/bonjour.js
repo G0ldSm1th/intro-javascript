@@ -1,2 +1,3 @@
 var prenom = prompt("Entrez votre prénom");
-alert("Bonjour, " + prenom);
+var nom = prompt("Entrez votre nom");
+alert("Bonjour, " + prenom + " " + nom);
